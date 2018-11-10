@@ -1,5 +1,5 @@
 
-Calculadora para dilatações de materiais 
+Projeto Claculadora de Dilatacao - 2° ano
 ========
 
 Descrição
